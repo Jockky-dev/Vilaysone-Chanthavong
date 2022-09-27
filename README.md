@@ -1,3 +1,4 @@
 # Vilaysone-Chanthavong
- * cd to currect project directoru
+* open terminal/cmd
+ * **cd** to currect project directory
  * code .
