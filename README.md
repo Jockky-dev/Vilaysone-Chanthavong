@@ -1,2 +1,3 @@
 # Vilaysone-Chanthavong
-For learning during the class purpose only
+ * cd to currect project directoru
+ * code .
